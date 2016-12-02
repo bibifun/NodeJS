@@ -9,3 +9,5 @@
 var BF = new Buffer(5);
 
 console.log(BF)
+
+console.log(BF)
