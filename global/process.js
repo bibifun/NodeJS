@@ -43,8 +43,8 @@
 
 // 开启输入流
 
-process.stdin.resume();
-
-process.stdin.on('data',function (chunk) {
-    console.log('用户输入了' + chunk)
-})
+// process.stdin.resume();
+//
+// process.stdin.on('data',function (chunk) {
+//     console.log('用户输入了' + chunk)
+// })
